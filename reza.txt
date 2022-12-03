@@ -1,0 +1,39 @@
+﻿<html>
+    <head>
+        <meta charset="utf-8">
+        <title>tags</title>
+    </head>
+    <body >
+        <aside>
+            <h3>زبان های برنامه نویسی</h3>
+            <p>css , c++ , c# , Python , html</p>
+        </aside>
+        <div>
+            <header>
+                <p>منو</p>
+                <nav>
+                <a href="">خانه</a>                
+                </nav>
+            </header>
+        </div>
+        <hr>
+        <p>Hello I am <span>Reza</span> .</p>
+        <article>
+            <h1>مطلب جدید</h1>
+        </article>         
+        <div>
+            <section>
+                <h2>تگ=paraghraf</h2>
+                <p>تگ p ، که با استفاده از آن میتوان در یک صفحه وب یک یا چندین پاراگراف را ایجاد کرد.</p>
+            </section>            
+            <h2>تگ های = B , I , U</h2>
+            <B>مثال  B</B><br>
+            <I>مثال  I</I><br>
+            <U>مثال  U</U>            
+        </div>
+        <hr>
+        <footer >
+            <h2>پایان</h2>
+        </footer>
+    </body>
+</html>
